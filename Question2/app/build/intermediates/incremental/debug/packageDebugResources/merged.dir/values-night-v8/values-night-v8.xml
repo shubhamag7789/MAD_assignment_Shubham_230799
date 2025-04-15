@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#121212</color>
+    <color name="black">#FF000000</color>
+    <color name="border_fill">#1E1E1E</color>
+    <color name="border_stroke">#757575</color>
+    <color name="button_color">#00695C</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="hint_color">#B0BEC5</color>
+    <color name="spinner_text_color">#FFFFFF</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <style name="Base.Theme.Question2" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+</resources>

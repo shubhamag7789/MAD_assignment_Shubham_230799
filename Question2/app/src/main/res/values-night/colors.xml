@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#121212</color>  <!-- Dark gray background -->
+    <color name="text_color">#FFFFFF</color>       <!-- White text for readability -->
+    <color name="hint_color">#B0BEC5</color>       <!-- Light gray for hints -->
+    <color name="button_color">#00695C</color>     <!-- Deep teal for buttons -->
+    <color name="card_background">#1E1E1E</color>  <!-- Dark gray for cards -->
+    <color name="border_fill">#1E1E1E</color>     <!-- Dark gray fill for borders -->
+    <color name="border_stroke">#757575</color>    <!-- Medium gray border -->
+    <color name="spinner_text_color">#FFFFFF</color> <!-- White text for spinners -->
+    <color name="black">#FF000000</color>          <!-- Keep the original black -->
+    <color name="white">#FFFFFFFF</color>          <!-- Keep the original white -->
+</resources>
